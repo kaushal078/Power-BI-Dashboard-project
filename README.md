@@ -1,1 +1,2 @@
-# Power-BI-Dashboard-project
+🛒 Grocery Sales Comparison Dashboard – Power BI Project 
+This Grocery Sales Comparison Dashboard is designed to provide insightful visual analysis of sales performance across different categories, stores, and time periods. Built using Power BI, the dashboard enables users to compare sales trends, identify top-selling products, monitor regional performance, and evaluate seasonal impacts on grocery sales.
