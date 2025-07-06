@@ -21,4 +21,7 @@ To assist business managers in making data-driven decisions, optimizing stock le
 🛠️ Tools Used:
 Power BI, DAX, Excel (for data cleaning), and SQL (optional for backend integration).
 
+🚚 Blinkit vs Zepto – Quick Commerce Comparison Dashboard
+This dashboard presents a side-by-side comparison of India’s leading quick-commerce platforms – Blinkit and Zepto – focused on analyzing key metrics such as delivery performance, product pricing, user ratings, and customer experience.
+
 
